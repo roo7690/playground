@@ -10,3 +10,6 @@
 [submodule "poly/polyia/atprofile"]
 	path = poly/polyia/atprofile
 	url = github:bardd-social/atprofile.git
+[submodule "poly/connexion_tcp_client_server"]
+	path = poly/connexion_tcp_client_server
+	url = github:roo7690/connexion_tcp_client_server.git
