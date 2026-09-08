@@ -1,0 +1,1 @@
+rootProject.name = "inf3405_tp1-socket"

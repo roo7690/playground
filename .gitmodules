@@ -1,0 +1,12 @@
+[submodule "algolab"]
+	path = algolab
+	url = github:roo7690/algolab.git
+[submodule "poly/inf1700/tp4"]
+	path = poly/inf1700/tp4
+	url = github:INF1007-2025A/tp4-l05-21.git
+[submodule "poly/inf1700/pro2"]
+	path = poly/inf1700/pro2
+	url = github:INF1007-2025A/pr02-roo7690.git
+[submodule "poly/polyia/atprofile"]
+	path = poly/polyia/atprofile
+	url = github:bardd-social/atprofile.git

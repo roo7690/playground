@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "inf1700"
+version = "0.1.0"
+description = ""
+authors = ["roo7690 <roosevelt@leroo.io>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pygame = "^2.6.1"
+pandas = "^2.3.3"
+numpy = "^2.3.4"
+seaborn = "^0.13.2"
+plotly = "^6.3.1"
+matplotlib = "^3.10.7"
+nbformat = "^5.10.4"
+notebook = "^7.4.7"
+ipywidgets = "^8.1.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

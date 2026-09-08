@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/pion_b.png</file>
+        <file>images/roi_b.png</file>
+        <file>images/pion_n.png</file>
+        <file>images/roi_n.png</file>
+    </qresource>
+</RCC>

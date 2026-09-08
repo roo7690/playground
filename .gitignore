@@ -1,0 +1,53 @@
+.vscode
+archive/**
+
+**/*.local.*
+**/.next
+
+# dependencies
+**/node_modules
+**/.pnp
+**/.pnp.js
+**/vendor
+
+# testing
+client/**/coverage
+
+# production
+**/dist
+**/public/*
+**/cert/*
+**/out
+**/build
+**/target
+
+# env
+**/.DS_Store
+**/.env.*local
+**/db/**/.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# python env
+**/bin
+!bin
+**/lib*
+!**/libs
+**/Lib
+**/Scripts
+**/__pycache__
+**/cache
+**/artifacts
+**/.venv
+**/requirements.txt
+
+# server
+.roo7690
+
+# github codespaces
+.github
+.devcontainer
+
+**/*.tar
