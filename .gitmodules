@@ -13,3 +13,15 @@
 [submodule "poly/connexion_tcp_client_server"]
 	path = poly/connexion_tcp_client_server
 	url = github:roo7690/connexion_tcp_client_server.git
+[submodule "poly/polytag"]
+	path = poly/polytag
+	url = github:LOG2440-20263/log2440-20263-03-tp2-roo7690.git
+[submodule "poly/polyquiz"]
+	path = poly/polyquiz
+	url = github:LOG2440-20263/log2440-20263-03-tp3-roo7690.git
+[submodule "poly/polytask"]
+	path = poly/polytask
+	url = github:LOG2440-20263/log2440-20263-03-tp4-roo7690.git
+[submodule "poly/inf3405-tp2"]
+	path = poly/inf3405-tp2
+	url = github:NBHLDSK/INF-3405---TP2.git
